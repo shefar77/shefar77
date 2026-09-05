@@ -97,6 +97,6 @@ A feedback collection platform designed to help businesses collect structured cu
 
 <a href="https://www.linkedin.com/in/farhan-sheikh-092fs/">LinkedIn</a> ·
 <a href="https://x.com/_Sheikh_Farhan_">Twitter</a> ·
-<a href="mailto:sheikh.farhan1327@gmail.com">Email</a>
+sheikh.farhan1327@gmail.com
 
 </div>
