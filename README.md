@@ -1,14 +1,8 @@
-<div align="center">
-
 # Farhan Sheikh
 
-### Full-Stack Developer · AI Engineering Enthusiast
+### Full-Stack Developer · AI Engineering 
 
 I enjoy building practical software from frontend interfaces and backend APIs to databases and cloud infrastructure. I've worked on real-world applications involving automation, integrations, authentication and scalable backend systems. I'm particularly interested in AI engineering, system design and learning by building things that solve actual problems.
-
-<br/>
-
-<a href="mailto:sheikh.farhan1327@gmail.com">Email</a> ·
 
 </div>
 
@@ -93,9 +87,7 @@ Worked across the full stack using Next.js, Node.js, Express, PostgreSQL, Prisma
 
 **FeedbackFlow** 
 
-A feedback collection platform designed to help businesses collect structured customer feedback and improve their Google review workflow.
-
-Built the complete application across frontend, backend, database, authentication, feedback processing, review generation and deployment.
+A feedback collection platform designed to help businesses collect structured customer feedback and improve their Google review workflow. Built the complete application across frontend, backend, database, authentication, feedback processing, review generation and deployment.
 
 ---
 
@@ -105,5 +97,6 @@ Built the complete application across frontend, backend, database, authenticatio
 
 <a href="https://www.linkedin.com/in/farhan-sheikh-092fs/">LinkedIn</a> ·
 <a href="https://x.com/_Sheikh_Farhan_">Twitter</a> ·
+<a href="mailto:sheikh.farhan1327@gmail.com">Email</a>
 
 </div>
