@@ -10,28 +10,7 @@ I enjoy building practical software from frontend interfaces and backend APIs to
 
 ## Tech Stack
 
-<p align="left">
-
-<img src="./assets/typescript.svg" width="48" />
-<img src="./assets/javascript.svg" width="48" />
-<img src="./assets/python.svg" width="48" />
-<img src="./assets/java.svg" width="48" />
-
-<img src="./assets/react.svg" width="48" />
-<img src="./assets/nextjs.svg" width="48" />
-<img src="./assets/tailwind.svg" width="48" />
-
-<img src="./assets/nodejs.svg" width="48" />
-<img src="./assets/express.svg" width="48" />
-
-<img src="./assets/postgresql.svg" width="48" />
-<img src="./assets/prisma.svg" width="48" />
-<img src="./assets/redis.svg" width="48" />
-
-<img src="./assets/docker.svg" width="48" />
-<img src="./assets/git.svg" width="48" />
-
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,react,nextjs,tailwind,nodejs,postgres,mongodb,prisma,redis,docker,git,github,tensorflow" alt="Tech Stack"/>
 
 ---
 
