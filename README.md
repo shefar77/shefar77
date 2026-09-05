@@ -4,12 +4,11 @@
 
 ### Full-Stack Developer · AI Engineering Enthusiast
 
-I build full-stack products and backend systems with experience of building multi-tenant SaaS platforms and REST APIs to automation and AI applications. I've worked across AI systems, development, databases.
+I enjoy building practical software from frontend interfaces and backend APIs to databases and cloud infrastructure. I've worked on real-world applications involving automation, integrations, authentication and scalable backend systems. I'm particularly interested in AI engineering, system design and learning by building things that solve actual problems.
 
 <br/>
 
 <a href="mailto:sheikh.farhan1327@gmail.com">Email</a> ·
-<a href="https://www.linkedin.com/in/farhan-sheikh-092fs/">LinkedIn</a> ·
 
 </div>
 
@@ -61,10 +60,12 @@ I build full-stack products and backend systems with experience of building mult
 ### Software Engineering Intern
 **Cloudverse Consulting** · Apr. 2026 – Present
 
-Worked on industry grade software products including a multi-tenant real estate CRM and a customer feedback platform.
-
-Designed and implemented backend services, REST APIs, role-based access control, database architecture, integrations, automation workflows
+Worked on industry grade software products including a multi-tenant real estate CRM and a customer feedback platform. Designed and implemented backend services, REST APIs, role-based access control, database architecture, integrations, automation workflows
 and deployment infrastructure.
+
+### Summer Intern 
+**Reliance Industries Limited** · Jun. 2025 – Jul. 2025  
+Analyzed GE Frame 9E Gas Turbine PLC/DCS logs to study automated control of barring gear, booster compressor and start-up/shutdown systems. Gained exposure to digital DCS, PLC and plant control panels and modeled HRSG feedwater automation involving deaerator, condensate preheater and chemical dosing interlocks.
 
 ---
 
@@ -98,20 +99,11 @@ Built the complete application across frontend, backend, database, authenticatio
 
 ---
 
-## What I'm Currently Exploring
-
-- System Design
-- Distributed Systems
-- Intelligent Automation
-- Inference Engineering
-
----
-
 <div align="center">
 
 ### Let's Connect
 
 <a href="https://www.linkedin.com/in/farhan-sheikh-092fs/">LinkedIn</a> ·
-<a href="mailto:sheikh.farhan1327@gmail.com">Email</a>
+<a href="https://x.com/_Sheikh_Farhan_">Twitter</a> ·
 
 </div>
