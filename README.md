@@ -42,7 +42,7 @@ Analyzed GE Frame 9E Gas Turbine PLC/DCS logs to study automated control of barr
 
 ---
 
-### Full-Stack Development
+### Projects
 
 **PropertyAdda**
 
