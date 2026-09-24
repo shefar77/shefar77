@@ -20,7 +20,7 @@ I enjoy building practical software from frontend interfaces and backend APIs to
 |----------|-------|
 | Languages | C, C++, TypeScript, JavaScript, Python, SQL |
 | Frontend | React, Next.js, Tailwind CSS, HTML, CSS |
-| Backend | Node.js, Express.js, REST APIs |
+| Backend | Node.js, REST APIs |
 | Databases | PostgreSQL, MongoDB, Prisma ORM, Redis |
 | DevOps | Git, GitHub, Docker, CI/CD |
 | AI Systems | LLMs, RAG, LangChain, LangGraph |
